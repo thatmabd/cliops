@@ -1,0 +1,12 @@
+include README.md
+include requirements.txt
+include LICENSE
+include main.py
+include presets.py
+include post_install.py
+recursive-include core *.py
+recursive-include tests *.py
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude *_state.py
+global-exclude prompt_*.py

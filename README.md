@@ -1,5 +1,22 @@
 # cliops - Command Line Interface for Prompt Optimization
 
+1- Install cliops
+
+pip install cliops
+
+2- Open your project inside any IDE
+
+Or
+
+2- Navigate to your project
+cd your-awesome-project
+
+3- Start optimizing with cliops
+cliops
+
+4- For any quick optimization just say / cliops and your prompt between two ""
+cliops "your main prompt"
+
 A powerful CLI tool for structured, pattern-based prompt optimization and state management.
 
 [![GitHub](https://img.shields.io/badge/GitHub-thatmabd-blue)](https://github.com/thatmabd)

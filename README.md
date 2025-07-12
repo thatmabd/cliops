@@ -36,7 +36,7 @@ A powerful CLI tool for structured, pattern-based prompt optimization and state 
 
 ```bash
 # Install
-pip install .
+pip install cliops
 
 # Initialize
 cliops init

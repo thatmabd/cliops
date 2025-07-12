@@ -11,8 +11,7 @@ Or
 2- Navigate to your project
 cd your-awesome-project
 
-3- Start optimizing with cliops
-cliops
+3- Start optimizing with cliops.
 
 4- For any quick optimization just say / cliops and your prompt between two ""
 cliops "your main prompt"

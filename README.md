@@ -45,7 +45,7 @@ cliops patterns
 ## Installation
 
 ```bash
-pip install .
+pip install cliops
 ```
 
 The installer will attempt to add the necessary directory to your system's PATH. Please restart your terminal after installation.
